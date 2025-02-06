@@ -7,6 +7,7 @@ def main():
     print("Loading frames...")
     frames = load_frames(file_pattern, start, end)
     print(f"Total frames loaded: {len(frames)}")
+    
 
     # 2. Process frames (segmentation + property extraction)
     print("Processing frames...")

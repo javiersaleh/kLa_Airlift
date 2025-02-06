@@ -14,7 +14,7 @@ This Python script implements a novel methodology to determine the volumetric ma
   - Cropping coordinates
 
 ## Important Notes
-- The **crop coordinates** and **conversion factor** must be adjusted when changing the internal column dimensions.  
-- An **example image** is provided to illustrate the necessary modifications.  
+- The **crop coordinates**, **conversion factor**, and **internal column** must be adjusted when changing the internal column dimensions.  
+- A table with the required parameters for each case is provided in **parameters image** to illustrate the necessary modifications.  
 
 This methodology enables precise and automated **kLa** estimation, facilitating the study of mass transfer in Airlift reactors.
